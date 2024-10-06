@@ -165,8 +165,8 @@ cython_debug/
 scrap_paper.ipynb
 
 # ckpt -> large files
-.pth
-.ckpt
+/ckpt/*.pth
+/ckpt/*.ckpt
 
 # #image file
 # *.png
